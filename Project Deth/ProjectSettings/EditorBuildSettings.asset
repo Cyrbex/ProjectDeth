@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Niitty.unity
+    guid: 783a7208728b6b34baee1904b52210ea
+  - enabled: 1
+    path: Assets/Scenes/Level_00.unity
+    guid: d13c13d5ef4f20441b7d1ea1bdff8f58
+  - enabled: 1
+    path: Assets/Scenes/Hell.unity
+    guid: e828df8f40d3205478ee8e1e4041cf45
+  m_configObjects: {}
